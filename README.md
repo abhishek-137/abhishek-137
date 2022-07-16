@@ -3,18 +3,20 @@
 
 <!--Here are some ideas to get you started:
 -->
--👨‍💻 I am a Back end developer and Computer Programmer
--👨‍🎓 Currently pursuing B.Tech in Computer Science and Engineering(2023)... 
+- 👨‍💻 I am a Back end developer and Computer Programmer
+- 👨‍🎓 Currently pursuing B.Tech in Computer Science and Engineering(2023) 
 - 🔭 I’m currently working on - Django Restframework
+- ⚡ Fun fact: Those who cannot remember the past are condemned to repeat it ~DP
+
+
 <!-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
-- ⚡ Fun fact: Those who cannot remember the past are condemned to repeat it ~DP
+
 
 Tech Stack
 
@@ -26,3 +28,5 @@ Tech Stack
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
