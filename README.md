@@ -5,7 +5,7 @@
 -->
 - 👨‍💻 I am a Back end developer and Computer Programmer
 - 👨‍🎓 Currently pursuing B.Tech in Computer Science and Engineering(2023) 
-- 🔭 I’m currently working on - Django Restframework
+- 🔭 I’m currently working on - Django Restframework, Data structure and Algorithm
 - ⚡ Fun fact: Those who cannot remember the past are condemned to repeat it ~DP
 
 
