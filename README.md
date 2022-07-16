@@ -3,9 +3,12 @@
 
 <!--Here are some ideas to get you started:
 -->
+-I am a Back end developer and Computer Programmer
+-👨‍🎓 Currently pursuing B.Tech in Computer Science and Engineering(2023)... 
 - 🔭 I’m currently working on - Django Restframework
 <!-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -14,6 +17,7 @@
 - ⚡ Fun fact: Those who cannot remember the past are condemned to repeat it ~DP
 
 Tech Stack
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
