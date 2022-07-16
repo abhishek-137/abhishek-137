@@ -3,7 +3,7 @@
 
 <!--Here are some ideas to get you started:
 -->
--I am a Back end developer and Computer Programmer
+-👨‍💻 I am a Back end developer and Computer Programmer
 -👨‍🎓 Currently pursuing B.Tech in Computer Science and Engineering(2023)... 
 - 🔭 I’m currently working on - Django Restframework
 <!-- 🌱 I’m currently learning ...
